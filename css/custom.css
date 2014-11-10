@@ -637,5 +637,8 @@ body{
 .thumbnail, .car, .contact, .form-group, .checkbox, .submit{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
+.picture{
+	border-radius: 100%;
+}
 
 
