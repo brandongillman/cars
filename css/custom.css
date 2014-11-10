@@ -6,7 +6,7 @@
 }
 .btn{
 	background-color: #F5F5F5;
-	color: #4169E1;
+	color: #6699FF;
 }
 .jumbotron{
 	background-color: white;
@@ -15,6 +15,7 @@ body{
 	margin-top: 20px;
 	margin-right: 0px;
 	margin-bottom: 20px;
+	background-color: #070707;
 }
 .top{
 	text-decoration: underline;
@@ -32,7 +33,30 @@ form{
 .selfie{
 	margin-top: 20px;
 }
-h3{
+h3, h4, p{
 	text-align: center;
-	color: black;
+	color: #6699FF;
+}
+.form-group, .checkbox, .submit, .navbar-nav{
+	color: #6699FF;
+}
+.section{
+	border-radius: 10px;
+	border-color: white;
+    border-top-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-width: 15px;
+    margin: 10px;
+	padding: 15px;
+	color: white;
+	background-color: #C8C8C8 ;
+}
+.navbar {
+	background-color: #070707;
+	color: #6699FF;
+}
+i.form-control{
+	background-color: #C8C8C8;
 }
